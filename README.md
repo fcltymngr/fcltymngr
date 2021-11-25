@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fcltymngr
-- 👀 I’m interested in 3d printing, cnc, linux, raspberrypi, görls ;)
+- 👀 I’m interested in 3d printing, cnc, linux, raspberrypi
 - 🌱 I’m currently learning linux, python
 - 💞️ I’m looking to collaborate on uhm not sure yet
 - 📫 How to reach me fctltymngr@mailbox.org
